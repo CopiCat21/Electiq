@@ -1,18 +1,14 @@
-<h1> [Nama Project] </h1>
+<h1> ELECTIQ </h1>
 </div>
 
 ## 📄 Deskripsi proyek
 
-`[Nama Project]` merupakan lorem ipsum dolor sit amet 
+`electiq` merupakan project applikasi x database yang berguna untuk dijadikan tempat melapor serta kontroling laporan yang masuk
 
 ## 💻 Tech Stack
 
-- 📦 PostgreSQL - Database
-- dll
-
-## 📄 Deskripsi proyek
-
-`[Nama Project]` merupakan lorem ipsum dolor sit amet 
+- 📦 Firebase - Database
+- 📦 Flutter - Frontend
 
 ## 📝 Log
 
