@@ -11,8 +11,7 @@
 - 📦 Flutter - Frontend
 
 ## 📝 Log
-
-_2 Maret 2023_
+- 2 Maret 2023
 Membaca literasi tentang flutter dan firebase
-_3 Maret 2023_
+- 3 Maret 2023
 mencari contoh app dan cara pengaplikasian firebasenya
