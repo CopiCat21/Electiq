@@ -12,4 +12,7 @@
 
 ## 📝 Log
 
-_25 Februari 2023_
+_2 Maret 2023_
+Membaca literasi tentang flutter dan firebase
+_3 Maret 2023_
+mencari contoh app dan cara pengaplikasian firebasenya
