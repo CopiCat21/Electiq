@@ -15,3 +15,5 @@
 Membaca literasi tentang flutter dan firebase
 - 3 Maret 2023
 mencari contoh app dan cara pengaplikasian firebasenya
+- 4 maret 2023
+Bisa menginstall flutter tapi ga HP ga bisa connect wkwkkw
