@@ -21,3 +21,11 @@ Bisa menginstall flutter tapi ga HP ga bisa connect wkwkkw
 - 11 - 14 ( Mencoba membuat app di kodular )
 - 15 - 22 ( Mencoba memasukan app dengan firebase )
 - 23 - 25 ( selesai membuat bagian inti app nya )
+
+## 📝 Log (Benjamin)
+- 8 Maret 2023
+Meninstall Flutter dan membuat program pertama di FLutter
+- 15 Maret 2023
+Mulai belajar flutter dan mendesain menggunakan figma
+- 25 Maret 2023
+Menyelesaikan desain di figma dan melanjutkan codingan di flutter
